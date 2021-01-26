@@ -1,0 +1,4 @@
+baseURL = "https://secretsrecipes.vercel.app"
+languageCode = "en-us"
+title = "Secret Recipe"
+theme = "z"
